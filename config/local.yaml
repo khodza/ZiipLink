@@ -1,0 +1,12 @@
+env: "local" #local,dev,prod
+storage_path: "./storage/storage.db"
+mongodb_url: ""
+telegram_bot_token: ""
+database_name: "zipLink"
+domain: "http://localhost:3000"
+http_server:
+  address: "localhost:3000"
+  timeout: 4s
+  idle_timeout: 60s
+  user: ""
+  password: ""

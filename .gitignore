@@ -1,0 +1,15 @@
+# Dependency directories
+/vendor/
+/go.sum
+
+
+.vscode/
+.idea/
+vendor/
+
+
+#Static data
+/internal/static/
+# Sensitive information
+.env
+*.env
